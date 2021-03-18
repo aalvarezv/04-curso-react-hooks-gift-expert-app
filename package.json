@@ -2,6 +2,7 @@
   "name": "04-gif-expert-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "04-curso-react-hooks-gift-expert-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
